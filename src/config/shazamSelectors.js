@@ -1,0 +1,1 @@
+export const shazamSelector = state => state?.shazam?.shazamResult?.data?.tracks?.hits
